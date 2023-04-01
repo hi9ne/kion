@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e7ffbe0-07a3-4f08-bf94-be7f14e3b0a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HABZAXNBOat38OcZG9SXHWMn80" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images/img" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\kion\src\images\img" />
+      <recent name="C:\Users\User\Desktop\kion\src\images\complete" />
+      <recent name="C:\Users\User\Desktop\kion\src\images\header" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\kion\src\images\footer" />
+      <recent name="C:\Users\User\Desktop\kion\src\images\video" />
+      <recent name="C:\Users\User\Desktop\kion\src\images\product" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e7ffbe0-07a3-4f08-bf94-be7f14e3b0a9" name="Default Changelist" comment="" />
+      <created>1667718060664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667718060664</updated>
+      <workItem from="1667718062271" duration="3282000" />
+      <workItem from="1668143685230" duration="337000" />
+      <workItem from="1668233780831" duration="65000" />
+      <workItem from="1668233914307" duration="2000" />
+      <workItem from="1668233922076" duration="1485000" />
+      <workItem from="1668235443816" duration="16000" />
+      <workItem from="1668235474381" duration="2815000" />
+      <workItem from="1668238330226" duration="1440000" />
+      <workItem from="1668320266575" duration="472000" />
+      <workItem from="1668320830716" duration="4919000" />
+      <workItem from="1668664278273" duration="120000" />
+      <workItem from="1668838652578" duration="6111000" />
+      <workItem from="1668924779833" duration="3289000" />
+      <workItem from="1669121714220" duration="4000" />
+      <workItem from="1669121726451" duration="33000" />
+      <workItem from="1669126778869" duration="1910000" />
+      <workItem from="1669397111919" duration="1401000" />
+      <workItem from="1669446516530" duration="1273000" />
+      <workItem from="1669529395103" duration="11000" />
+      <workItem from="1669531769298" duration="1220000" />
+      <workItem from="1671950711646" duration="18000" />
+      <workItem from="1671957527923" duration="1663000" />
+      <workItem from="1671959221047" duration="713000" />
+      <workItem from="1671962601569" duration="263000" />
+      <workItem from="1671962905738" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1668233977345">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1668233977345" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1668321224650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1668321224650" />
+  </component>
+</project>
